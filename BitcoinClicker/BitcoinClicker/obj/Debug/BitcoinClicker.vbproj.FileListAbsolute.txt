@@ -1,0 +1,12 @@
+C:\Users\jtren\git\Bitcoin-Clicker\BitcoinClicker\BitcoinClicker\bin\Debug\BitcoinClicker.exe.config
+C:\Users\jtren\git\Bitcoin-Clicker\BitcoinClicker\BitcoinClicker\bin\Debug\BitcoinClicker.exe
+C:\Users\jtren\git\Bitcoin-Clicker\BitcoinClicker\BitcoinClicker\bin\Debug\BitcoinClicker.pdb
+C:\Users\jtren\git\Bitcoin-Clicker\BitcoinClicker\BitcoinClicker\bin\Debug\BitcoinClicker.xml
+C:\Users\jtren\git\Bitcoin-Clicker\BitcoinClicker\BitcoinClicker\obj\Debug\BitcoinClicker.vbprojAssemblyReference.cache
+C:\Users\jtren\git\Bitcoin-Clicker\BitcoinClicker\BitcoinClicker\obj\Debug\BitcoinClicker.Resources.resources
+C:\Users\jtren\git\Bitcoin-Clicker\BitcoinClicker\BitcoinClicker\obj\Debug\BitcoinClicker.vbproj.GenerateResource.cache
+C:\Users\jtren\git\Bitcoin-Clicker\BitcoinClicker\BitcoinClicker\obj\Debug\BitcoinClicker.vbproj.CoreCompileInputs.cache
+C:\Users\jtren\git\Bitcoin-Clicker\BitcoinClicker\BitcoinClicker\obj\Debug\BitcoinClicker.exe
+C:\Users\jtren\git\Bitcoin-Clicker\BitcoinClicker\BitcoinClicker\obj\Debug\BitcoinClicker.xml
+C:\Users\jtren\git\Bitcoin-Clicker\BitcoinClicker\BitcoinClicker\obj\Debug\BitcoinClicker.pdb
+C:\Users\jtren\git\Bitcoin-Clicker\BitcoinClicker\BitcoinClicker\obj\Debug\BitcoinClicker.BitcoinClicker.resources
